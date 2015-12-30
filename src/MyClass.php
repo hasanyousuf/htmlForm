@@ -2,7 +2,7 @@
  
 class MyClass
 {
-  public $prop1 = "I'm a class property!";
+  public $prop1 = "I'm a class property!"
  
   public function setProperty($newval)
   {
